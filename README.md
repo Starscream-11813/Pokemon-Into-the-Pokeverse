@@ -10,5 +10,5 @@ Ridwan Mahbub-180041230
 
 # Resources:
 * [ASCIIArts](https://gist.github.com/MatheusFaria/4cbb8b6dbe33fd5605cf8b8f7130ba6d)\
-* [MP3Files](https://downloads.khinsider.com/game-soundtracks/album/pokemon-gameboy-sound-collection)\
-*  [PokemonStats](https://pokemondb.net)\
+* [MP3Files](https://downloads.khinsider.com/game-soundtracks/album/pokemon-gameboy-sound-collection)
+*  [PokemonStats](https://pokemondb.net)
