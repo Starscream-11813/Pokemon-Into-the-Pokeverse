@@ -9,6 +9,6 @@ Ridwan Mahbub-180041230
 * Adding the .wav music files.
 
 # Resources:
-* [ASCIIArts](https://gist.github.com/MatheusFaria/4cbb8b6dbe33fd5605cf8b8f7130ba6d)
+* [ASCIIArts](http://www.fiikus.net/?pokedex)
 * [MP3Files](https://downloads.khinsider.com/game-soundtracks/album/pokemon-gameboy-sound-collection)
 *  [PokemonStats](https://pokemondb.net)
