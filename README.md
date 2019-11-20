@@ -5,8 +5,9 @@ Syed Rifat Raiyan-180041205\
 Syed Mohammad Sartaj Ekram-180041204\
 Ridwan Mahbub-180041230
 # Stuff Remaining:
-* Integrating the ASCII Arts.
-* 
+
+
+
 
 # Resources:
 * [ASCIIArts](http://www.fiikus.net/?pokedex)
