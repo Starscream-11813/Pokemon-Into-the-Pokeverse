@@ -13,3 +13,5 @@ None
 * [ASCIIArts](http://www.fiikus.net/?pokedex)
 * [MP3Files](https://downloads.khinsider.com/game-soundtracks/album/pokemon-gameboy-sound-collection)
 *  [PokemonStats](https://pokemondb.net)
+# Update:
+Talha Sir A+ dise omegalul xD
